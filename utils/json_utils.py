@@ -119,9 +119,9 @@ def loading_print(wait):
 
 def query_tx_print(id, tx, error=None):
     if tx["validity check"]:
-        rich.print(Panel(f"[bold white]txid: {tx['txid']}[/bold white]\nvalidity check: [cyan]{tx['validity check']}[/cyan]", title=f"transaction{id}", border_style="bold white"))
+        rich.print(Panel(f"[bold white]txid: {tx['txid']}[/bold white]\nvalidity check: [cyan]passed[/cyan]", title=f"transaction{id}", border_style="bold white"))
     else:
-        rich.print(Panel(f"[bold white]txid: {tx['txid']}[/bold white]\nvalidity check: [red]{tx['validity check']}", title=f"transaction{id}", border_style="bold white"))
+        rich.print(Panel(f"[bold white]txid: {tx['txid']}[/bold white]\nvalidity check: [red]failed[/red]", title=f"transaction{id}", border_style="bold white"))
     
     print()
     print()
