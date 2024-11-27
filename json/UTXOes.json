@@ -1,0 +1,74 @@
+[
+    {
+        "ptxid": "f48390341507a8c666a34c9308e01282a3d9d9aaf384efdcb39f2bf27b718712",
+        "vout": 0,
+        "amount": 10000,
+        "scriptPubKey": "DUP HASH 6b8fb87877cffbe255c4bf5e9d210627edea0508 EQUALVERIFY CHECKSIG"
+    },
+    {
+        "ptxid": "225d399b821e48652020141b942d676a3959b6c50d88d392bdd0a03b88ad6798",
+        "vout": 1,
+        "amount": 10000,
+        "scriptPubKey": "DUP HASH 3082e47cb18e3567d64eecfa90adf1a2c3b4be4b EQUALVERIFY CHECKSIG"
+    },
+    {
+        "ptxid": "5edde634d371749eeecfd600acb9dee7782f98049d892345e1d062fe85aa3a7c",
+        "vout": 0,
+        "amount": 10000,
+        "scriptPubKey": "DUP HASH 73c5a3317db7ca79c8a641c6ab28cb8a86525750 EQUALVERIFY CHECKSIG"
+    },
+    {
+        "ptxid": "211ef3af3deeee4661fbb44452067260f206278fccfa3ec54279eaf74450570f",
+        "vout": 3,
+        "amount": 5000,
+        "scriptPubKey": "2 627eb21444806be2615ed46e768c2a4bd81be32552c11c4c1b0d1071fa6a1a478b16b53c63bea700359594992361471c776c2262fb08ea3d22a3a3aa31fbac2d 3af8a317273230ce601fd2cbf454394fb0f1feb0d620993a43a92eab5cca2ba57695cafd8c069d0ea8a54636079c40fc35a30bad787455791918bd968fd457a5 6b023bd7fdc06f9e355f04cc79f509a93da82436ad35d3b09007c7d47ffba0f7e0ea3978af7de8d25ddd1f2170266fa348e9b140872e4dfdf0aabe1c73cd62f6 3 CHECKMULTISIG"
+    },
+    {
+        "ptxid": "f28e4ab99a53348add5cf002554e3955ac789bcf369b2ff00b2e27ec329bc211",
+        "vout": 1,
+        "amount": 7000,
+        "scriptPubKey": "3 0354a0761a20c7aa2154a22e0430faf000afb2dd456536e5d77d608ff75531222d59176ead24c337b38ffad149f73766a535bd5f89315204d79d8ad1f7bad0e0 ad7e45bcc2eeea80e4a65846ad23d1d21977ce94f3600c267a06b10070326be1d7799af6022c0def2a957c2ab84ba5ec8aeff1d0e1891ded3b9d7507e465bcb1 9d1d5843128ea072fd6d9dd358017a33daf587ad897716ef24b4179ee5fcc21ed4360ffa705024537e673932fd60a8ac633735fc3e28bfc434e3c05c7ad3642f 64cbc6e13f7508e51b371a9a9a35f2f5b7dcb9af9402a8535e926dcb1336d4f62a91f496e83946ea07363861b06b1ecfb0fe68b72c70ae6937bed331e6c5c86c e276dd129470367f9569970641603d7d4ad4da24a0fc22ded7dbf97a04365b44fe91a94f0c3096092f0c5ccac4329b565db58e2b732d917d45a82bf7d98583a3 5 CHECKMULTISIG"
+    },
+    {
+        "ptxid": "cfae436ec0f6c19c1ace866511374b031bf8a2f4c26fa6f4774a52fbc10eb853",
+        "vout": 0,
+        "amount": 10000,
+        "scriptPubKey": "DUP HASH c46e906ac25c315528b6e9f5616b9e9909f5976b EQUALVERIFY"
+    },
+    {
+        "ptxid": "cfae436ec0f6c19c1ace866511374b031bf8a2f4c26fa6f4774a52fbc10eb853",
+        "vout": 0,
+        "amount": 10000,
+        "scriptPubKey": "DUP HASH c46e906ac25c315528b6e9f5616b9e9909f5976b EQUALVERIFY"
+    },
+    {
+        "ptxid": "f363bad28b108ff98a95443cae8cdab1af33e2581d3c2e39d017337160808603",
+        "vout": 1,
+        "amount": 50000,
+        "scriptPubKey": "DUP HASH b22fe4d829b16030052cfc895c231d5b18721d99 EQUALVERIFY"
+    },
+    {
+        "ptxid": "9512609875bb04b87d92de949b070e0d17697f1b52e6ccc72c136956d3750e61",
+        "vout": 0,
+        "amount": 25000,
+        "scriptPubKey": "DUP HASH 54ec424acd45c280984d7f5a05771b17137bcf78 EQUALVERIFY"
+    },
+    {
+        "ptxid": "ad10bad89d7bc335e283ebe36625ac1c1c711a0c280529889ceda70cdf4d5fb9",
+        "vout": 0,
+        "amount": 3000,
+        "scriptPubKey": "DUP HASH 2edaf4c2139989bdce825efaa79bb392a923f4ca EQUALVERIFY"
+    },
+    {
+        "ptxid": "b58d30a69865d59ca1688f730a008e4b46d322b6cf677e9b90601196ce3e808c",
+        "vout": 0,
+        "amount": 8000,
+        "scriptPubKey": "DUP HASH 766c582fd2a71a6402c13e48f2f5245ae7580eb0 EQUALVERIFY"
+    },
+    {
+        "ptxid": "8cc26b1fcfb07d8cd4de393c077e0c1daaebecd262c2476c716ba74fcaabdaa1",
+        "vout": 2,
+        "amount": 8000,
+        "scriptPubKey": "DUP HASH 8aab4a2b67510f4dd5833ad6d7e8dfc524cf5d18 EQUALVERIFY"
+    }
+]
