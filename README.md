@@ -54,7 +54,7 @@ python execution_engine.py
 |0|P2PKH|P|
 |1|P2PKH|F|input amount < output amount|
 |2|P2PKH|F|invalid signature|
-|3|MULTISIGNATURE|P|3 of 5 MULTISIGNATURE|
+|3|MULTISIGNATURE|P|2 of 3 MULTISIGNATURE|
 |4|MULTISIGNATURE|F|invalid signature|
 |5|P2SH|P||TRUE|IF 2 pubKey pubKey pubKey 3 CHECKMULTISIG ELSE DUP HASH pubKeyHash EQUALVERIFY CHECKSIG ENDIF|
 |6|P2SH|P||FALSE|same as 5|
